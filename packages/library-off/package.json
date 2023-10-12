@@ -1,0 +1,12 @@
+{
+  "name": "library-off",
+  "version": "1.0.0",
+  "description": "exactOptionalPropertyTypes is disabled",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

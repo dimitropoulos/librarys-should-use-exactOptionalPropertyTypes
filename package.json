@@ -1,0 +1,10 @@
+{
+  "name": "eOPT",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm run build --workspaces"
+  },
+  "workspaces": [
+    "./packages/*"
+  ]
+}

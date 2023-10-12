@@ -1,0 +1,13 @@
+{
+  "name": "library-on",
+  "version": "1.0.0",
+  "description": "exactOptionalPropertyTypes is enabled",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

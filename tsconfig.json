@@ -1,0 +1,9 @@
+{
+  "include": ["packages/**/*"],
+  "references": [
+    { "path": "./packages/consumer-off" },
+    { "path": "./packages/consumer-on" },
+    { "path": "./packages/library-off" },
+    { "path": "./packages/library-on" }
+  ]
+}

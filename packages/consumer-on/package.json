@@ -1,0 +1,12 @@
+{
+  "name": "consumer-on",
+  "version": "1.0.0",
+  "description": "exactOptionalPropertyTypes is enabled",
+  "dependencies": {
+    "library-off": "*",
+    "library-on": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
